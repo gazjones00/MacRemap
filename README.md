@@ -32,7 +32,7 @@ xattr -cr /Applications/MacRemap.app
 Requires macOS 13+ and Swift 5.9+ (Xcode 15+).
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MacRemap.git
+git clone https://github.com/gazjones00/MacRemap.git
 cd MacRemap
 make app
 ```
