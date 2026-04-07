@@ -1,9 +1,11 @@
 {
+  "bootstrap-sha": "47a863ef8a1f09c5e09545630834a332b5edb35e",
   "packages": {
     ".": {
       "release-type": "simple",
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": true,
+      "include-component-in-tag": false,
       "changelog-sections": [
         { "type": "feat", "section": "Features" },
         { "type": "fix", "section": "Bug Fixes" },
